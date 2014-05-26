@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\JoséMaría\Documents\GitHub\iis1314_patrones1\.metadata\.plugins\org.eclipse.jdt.core
+2619977003.index
+271995564.index

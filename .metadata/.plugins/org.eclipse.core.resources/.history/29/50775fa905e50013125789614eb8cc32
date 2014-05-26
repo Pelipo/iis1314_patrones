@@ -1,0 +1,16 @@
+
+public class MediaFactory implements IFactory { 
+	
+	public IMediaFile createMedia(String type) { 
+	
+		public IMediaFile tipo;
+		
+		if (type.equals("mp3")){
+			tipo=
+		}
+		if (type.equals("wav")) return new Wav();
+		if (type.equals("ogg")) return new Ogg(); 
+	 return null; 
+	} 
+}
+
