@@ -1,0 +1,15 @@
+
+public class Context {
+
+	private ICompressor estrategia; 
+	 public Context(ICompressor comp){ 
+	 estrategia= comp; 
+	 } 
+	 public setEstrategia(ICompressor comp){ 
+	 estrategia= comp; 
+	 } 
+	 public datos aplicar(datos f) { 
+	 return estrategia.comprimir(f) 
+	 } 
+
+}
