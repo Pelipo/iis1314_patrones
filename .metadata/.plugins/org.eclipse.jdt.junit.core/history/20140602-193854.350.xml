@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="factoryTest" project="iis1314_patrones" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="pkgTestFactory.factoryTest" time="0.0">
+    <testcase name="testCrearMp3" classname="pkgTestFactory.factoryTest" time="0.0"/>
+    <testcase name="testCrearOgg" classname="pkgTestFactory.factoryTest" time="0.0"/>
+    <testcase name="testCrearWav" classname="pkgTestFactory.factoryTest" time="0.0"/>
+  </testsuite>
+</testrun>

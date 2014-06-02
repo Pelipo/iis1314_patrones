@@ -1,0 +1,8 @@
+package iis1314.designPatterns.factoryMethod;
+
+public class Snippet {
+	public static void main(String[] args) {
+		iis1314.designPatterns.factoryMethod
+	}
+}
+
